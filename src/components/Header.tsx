@@ -41,7 +41,7 @@ const Header = () => {
           <Link to="/" className="flex items-center gap-2">
             <img src="/images/iiche.png" alt="IIChE VIT" className="w-12 h-12 md:w-16 md:h-16" />
             <span className="text-xl font-bold bg-gradient-to-r from-white to-accent bg-clip-text text-transparent">
-              IIChE VIT
+              Prabhat's Secret Fantasy
             </span>
           </Link>
           <div className="md:hidden">
