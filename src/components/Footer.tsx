@@ -70,7 +70,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 text-center text-gray-500 text-sm">
-          Designed with ❤️ by IIChE VIT Team
+          Designed with ❤️ by Prabhat's Ahh ah ha 💦 
         </div>
       </div>
     </footer>
